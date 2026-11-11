@@ -1,0 +1,432 @@
+{
+  "title": "2025 年台灣六測站日 AQI",
+  "datasetId": "AQX_P_434",
+  "sourceUrl": "https://data.moenv.gov.tw/dataset/detail/AQX_P_434",
+  "stationSourceUrl": "https://data.moenv.gov.tw/dataset/detail/AQX_P_07",
+  "publisher": "環境部",
+  "license": "政府資料開放授權條款第 1 版",
+  "licenseUrl": "https://data.gov.tw/license",
+  "retrievedAt": "2026-11-11T16:59:15+00:00",
+  "period": {
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "expectedDays": 365
+  },
+  "unit": "AQI（無單位指標）",
+  "columns": {
+    "date": "監測日期 YYYY-MM-DD",
+    "siteId": "官方測站編號（字串）",
+    "siteName": "官方測站名稱",
+    "aqi": "官方日 AQI；空欄為缺失"
+  },
+  "stations": [
+    {
+      "id": "15",
+      "name": "松山",
+      "englishName": "Songshan",
+      "region": "北部空品區",
+      "regionSource": "官方 AQX_P_07 空品區欄位",
+      "county": "臺北市",
+      "township": "松山區",
+      "type": "一般站",
+      "longitude": 121.578611,
+      "latitude": 25.05,
+      "coordinateReference": "TWD97（依官方欄位名稱）",
+      "validDays": 364,
+      "missingDays": 1,
+      "coverage": 0.9972602739726028,
+      "coveragePct": 99.726,
+      "median": 55.0,
+      "above100Days": 17,
+      "above100Ratio": 0.046703296703296704,
+      "above100Pct": 4.6703,
+      "max": 146,
+      "peakDates": [
+        "2025-04-16"
+      ],
+      "missingDates": [
+        "2025-02-02"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "新竹",
+      "englishName": "Hsinchu",
+      "region": "竹苗空品區",
+      "regionSource": "官方 AQX_P_07 空品區欄位",
+      "county": "新竹市",
+      "township": "東區",
+      "type": "一般站",
+      "longitude": 120.97236752,
+      "latitude": 24.8056356,
+      "coordinateReference": "TWD97（依官方欄位名稱）",
+      "validDays": 364,
+      "missingDays": 1,
+      "coverage": 0.9972602739726028,
+      "coveragePct": 99.726,
+      "median": 52.0,
+      "above100Days": 20,
+      "above100Ratio": 0.054945054945054944,
+      "above100Pct": 5.4945,
+      "max": 156,
+      "peakDates": [
+        "2025-05-13",
+        "2025-09-06"
+      ],
+      "missingDates": [
+        "2025-02-02"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "忠明",
+      "englishName": "Zhongming",
+      "region": "中部空品區",
+      "regionSource": "官方 AQX_P_07 空品區欄位",
+      "county": "臺中市",
+      "township": "南屯區",
+      "type": "一般站",
+      "longitude": 120.641092,
+      "latitude": 24.151958,
+      "coordinateReference": "TWD97（依官方欄位名稱）",
+      "validDays": 364,
+      "missingDays": 1,
+      "coverage": 0.9972602739726028,
+      "coveragePct": 99.726,
+      "median": 54.0,
+      "above100Days": 18,
+      "above100Ratio": 0.04945054945054945,
+      "above100Pct": 4.9451,
+      "max": 143,
+      "peakDates": [
+        "2025-01-22",
+        "2025-10-17"
+      ],
+      "missingDates": [
+        "2025-02-02"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "嘉義",
+      "englishName": "Chiayi",
+      "region": "雲嘉南空品區",
+      "regionSource": "官方 AQX_P_07 空品區欄位",
+      "county": "嘉義市",
+      "township": "西區",
+      "type": "一般站",
+      "longitude": 120.44125148,
+      "latitude": 23.46477865,
+      "coordinateReference": "TWD97（依官方欄位名稱）",
+      "validDays": 364,
+      "missingDays": 1,
+      "coverage": 0.9972602739726028,
+      "coveragePct": 99.726,
+      "median": 61.0,
+      "above100Days": 44,
+      "above100Ratio": 0.12087912087912088,
+      "above100Pct": 12.0879,
+      "max": 164,
+      "peakDates": [
+        "2025-04-29"
+      ],
+      "missingDates": [
+        "2025-02-02"
+      ]
+    },
+    {
+      "id": "56",
+      "name": "前金",
+      "englishName": "Qianjin",
+      "region": "高屏空品區",
+      "regionSource": "官方 AQX_P_07 空品區欄位",
+      "county": "高雄市",
+      "township": "前金區",
+      "type": "一般站",
+      "longitude": 120.28676111,
+      "latitude": 22.63390278,
+      "coordinateReference": "TWD97（依官方欄位名稱）",
+      "validDays": 364,
+      "missingDays": 1,
+      "coverage": 0.9972602739726028,
+      "coveragePct": 99.726,
+      "median": 64.0,
+      "above100Days": 42,
+      "above100Ratio": 0.11538461538461539,
+      "above100Pct": 11.5385,
+      "max": 166,
+      "peakDates": [
+        "2025-04-29"
+      ],
+      "missingDates": [
+        "2025-02-02"
+      ]
+    },
+    {
+      "id": "63",
+      "name": "花蓮",
+      "englishName": "Hualien",
+      "region": "花東空品區",
+      "regionSource": "官方 AQX_P_07 空品區欄位",
+      "county": "花蓮縣",
+      "township": "花蓮市",
+      "type": "一般站",
+      "longitude": 121.599769,
+      "latitude": 23.971306,
+      "coordinateReference": "TWD97（依官方欄位名稱）",
+      "validDays": 364,
+      "missingDays": 1,
+      "coverage": 0.9972602739726028,
+      "coveragePct": 99.726,
+      "median": 38.0,
+      "above100Days": 5,
+      "above100Ratio": 0.013736263736263736,
+      "above100Pct": 1.3736,
+      "max": 126,
+      "peakDates": [
+        "2025-04-04"
+      ],
+      "missingDates": [
+        "2025-02-02"
+      ]
+    }
+  ],
+  "selectionRationale": "選取北部、竹苗、中部、雲嘉南、高屏、花東各一個一般站，兼顧地理涵蓋與年度資料完整度；非全臺代表性抽樣。",
+  "stationMetadataNote": "測站名稱、縣市、空品區、類別與座標為本次下載之 AQX_P_07 快照；不為 2025 年每一天的歷史測站配置。",
+  "cleaning": {
+    "rawRows": 28541,
+    "selectedSourceRows": 2184,
+    "outOfScopeRows": 26357,
+    "identicalDuplicatesRemoved": 0,
+    "conflictingDuplicates": 0,
+    "selectedInvalidValues": 0,
+    "insertedMissingRows": 6,
+    "outputRows": 2190,
+    "validRows": 2184,
+    "missingRows": 6,
+    "allStationsMissingDates": [
+      "2025-02-02"
+    ],
+    "rules": [
+      "直接採用 AQX_P_434 的官方「日 AQI」，不對「小時 AQI」取平均值。",
+      "以官方 siteid 篩選六站；以測站編號與日期作為唯一鍵，檢查名稱一致性。",
+      "相同鍵且數值相同才去除重複；相同鍵而數值衝突會停止處理並要求人工查核。",
+      "空字串、無法解析、非有限數與負值標記視為缺失；不補零、不插值。",
+      "建立每站每日的完整日曆格線，來源缺列保留空 AQI。",
+      "中位數與 AQI > 100 日數比例只使用有效日；覆蓋率以 365 日為分母。"
+    ]
+  },
+  "outputSha256": "95823ec27123733d13645c6b876871fbcd74911b51385efb5e6ea49414f1ecc3",
+  "sources": [
+    {
+      "datasetId": "AQX_P_434",
+      "title": "日空氣品質指標(AQI)",
+      "datasetUrl": "https://data.moenv.gov.tw/dataset/detail/AQX_P_434",
+      "filename": "aqx_p_434-2025.zip",
+      "request": {
+        "rid": [
+          "7ac9e293-b065-485a-87d0-dd5e014cfc36",
+          "74095e72-eb8d-4dcd-aeb4-032f15cfc320",
+          "cd694bec-1c64-46f6-9901-a7eb00389cd7",
+          "4d9bb740-7dd3-41a8-ac9f-b35809ff7223",
+          "1706a5fc-0981-4a41-a044-41b0493a6cd7",
+          "2b6a0c8e-7690-4b93-980d-325dc3327d0c",
+          "dd3929f9-537c-4340-864b-7f663e8a42fa",
+          "afc5297d-d94f-46a3-88ae-37a65da9724c",
+          "b8c20584-1686-4f59-b7d9-08252ad5bfa2",
+          "4529b60a-8362-42ba-ac47-4cb6266fa3af",
+          "d3df4e0e-0cbd-4bb9-96de-4f5b671038f1",
+          "683236db-7eff-4a5a-819c-8ab36ecff93c"
+        ],
+        "download_type": "csv",
+        "pid": "dd87deb2-a528-4f32-8433-d9512b0abee7"
+      },
+      "resources": [
+        {
+          "rid": "7ac9e293-b065-485a-87d0-dd5e014cfc36",
+          "alias": "aqx_p_434-2025_01",
+          "name": "日空氣品質指標(AQI) (2025/01)"
+        },
+        {
+          "rid": "74095e72-eb8d-4dcd-aeb4-032f15cfc320",
+          "alias": "aqx_p_434-2025_02",
+          "name": "日空氣品質指標(AQI) (2025/02)"
+        },
+        {
+          "rid": "cd694bec-1c64-46f6-9901-a7eb00389cd7",
+          "alias": "aqx_p_434-2025_03",
+          "name": "日空氣品質指標(AQI) (2025/03)"
+        },
+        {
+          "rid": "4d9bb740-7dd3-41a8-ac9f-b35809ff7223",
+          "alias": "aqx_p_434-2025_04",
+          "name": "日空氣品質指標(AQI) (2025/04)"
+        },
+        {
+          "rid": "1706a5fc-0981-4a41-a044-41b0493a6cd7",
+          "alias": "aqx_p_434-2025_05",
+          "name": "日空氣品質指標(AQI) (2025/05)"
+        },
+        {
+          "rid": "2b6a0c8e-7690-4b93-980d-325dc3327d0c",
+          "alias": "aqx_p_434-2025_06",
+          "name": "日空氣品質指標(AQI) (2025/06)"
+        },
+        {
+          "rid": "dd3929f9-537c-4340-864b-7f663e8a42fa",
+          "alias": "aqx_p_434-2025_07",
+          "name": "日空氣品質指標(AQI) (2025/07)"
+        },
+        {
+          "rid": "afc5297d-d94f-46a3-88ae-37a65da9724c",
+          "alias": "aqx_p_434-2025_08",
+          "name": "日空氣品質指標(AQI) (2025/08)"
+        },
+        {
+          "rid": "b8c20584-1686-4f59-b7d9-08252ad5bfa2",
+          "alias": "aqx_p_434-2025_09",
+          "name": "日空氣品質指標(AQI) (2025/09)"
+        },
+        {
+          "rid": "4529b60a-8362-42ba-ac47-4cb6266fa3af",
+          "alias": "aqx_p_434-2025_10",
+          "name": "日空氣品質指標(AQI) (2025/10)"
+        },
+        {
+          "rid": "d3df4e0e-0cbd-4bb9-96de-4f5b671038f1",
+          "alias": "aqx_p_434-2025_11",
+          "name": "日空氣品質指標(AQI) (2025/11)"
+        },
+        {
+          "rid": "683236db-7eff-4a5a-819c-8ab36ecff93c",
+          "alias": "aqx_p_434-2025_12",
+          "name": "日空氣品質指標(AQI) (2025/12)"
+        }
+      ],
+      "downloadUrl": "https://data.moenv.gov.tw/api/frontstage/dataset/resource.download",
+      "downloadMethod": "POST",
+      "retrievedAt": "2026-11-11T16:59:15+00:00",
+      "sha256": "2c545a68c193fbf921f93a7e4fce2020ba8163a4ebcd384bf8b905d7e6155b37",
+      "bytes": 293013,
+      "members": [
+        {
+          "filename": "日空氣品質指標(AQI) (2025-01).csv",
+          "rows": 2449,
+          "sha256": "c5d4193a9055169e021a78f0147fb9fa8250940e786ad785d7af54182124a400",
+          "providerMd5": "d7c697ed2fbd48b4e619e8712aa6679f",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-02).csv",
+          "rows": 2133,
+          "sha256": "218a8f944bbbb0c00da4a363fb9d5ef4f13a0fe8b4e2af0c39e61563a19dc0f7",
+          "providerMd5": "b7ba156beed8b5fca00aed2c88714779",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-03).csv",
+          "rows": 2449,
+          "sha256": "f90aaf9d997621bd87121277d29e696e1503e80eb8af0e9c6e9da1586dfbe517",
+          "providerMd5": "b24fa8d9ff43a621632700dd4d3e5683",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-04).csv",
+          "rows": 2369,
+          "sha256": "de52b767e91f93e91bdb2fbf79645c28cff7ee5ee546a8f4f14c76d83e364232",
+          "providerMd5": "5b30eb6bb3be2d8641774b2e270dae70",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-05).csv",
+          "rows": 2418,
+          "sha256": "f769cbdbd2b51d4c02c1da2f6260d469942b8ed86e0f0f68228d498efa05a1cb",
+          "providerMd5": "544e76aafd135a4fa7a01b274e613fe8",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-06).csv",
+          "rows": 2340,
+          "sha256": "f4af088d1ee00140e0829eae5b98bd5f31658ae83ae9a6d4f98085c2af887878",
+          "providerMd5": "21d1ec61ad1ba3083951056a8e3b9fa5",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-07).csv",
+          "rows": 2418,
+          "sha256": "5e5aebf8780edf3751438fa4ba41a2b10cd801955165c4778de3574e555e04a0",
+          "providerMd5": "a48ab7e70c8cc971424f3487e01ead39",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-08).csv",
+          "rows": 2418,
+          "sha256": "86875de85cc87220974c0c700013d3f7f2bc1ca349d0129d67e40ac2e0e19ac4",
+          "providerMd5": "fcaed0edac998a7ad23267c549502fc6",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-09).csv",
+          "rows": 2340,
+          "sha256": "9f8ffd22ac15d43249d78e0f3d2c06b38996aea33baa525e3a3deb98e3afb9ec",
+          "providerMd5": "666f10af018bfccaf136a7ea50c4a3b2",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-10).csv",
+          "rows": 2418,
+          "sha256": "361ac889e6c904b64b918fdc87d6f15d73b7475295bc028ed43fb4091c41f8f1",
+          "providerMd5": "448c055c8aad362864c3a890f828f60c",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-11).csv",
+          "rows": 2340,
+          "sha256": "387559f22f0bd1b68a49e8b47178a4789d57e2aae3795bc353d37917d2663eb5",
+          "providerMd5": "2ca7c5ff912316bc0b95d207700a6b2c",
+          "md5Verified": true
+        },
+        {
+          "filename": "日空氣品質指標(AQI) (2025-12).csv",
+          "rows": 2449,
+          "sha256": "33ebc01db874d548c54ad08dc00a51b2aa281ea9c7367254313eea7a5ee9bdef",
+          "providerMd5": "120229ee8bb81d9584246042cb0efbe2",
+          "md5Verified": true
+        }
+      ]
+    },
+    {
+      "datasetId": "AQX_P_07",
+      "title": "空氣品質監測站基本資料",
+      "datasetUrl": "https://data.moenv.gov.tw/dataset/detail/AQX_P_07",
+      "filename": "aqx_p_07-stations.zip",
+      "request": {
+        "rid": [
+          "fb92f773-27ca-470a-af04-6000397f7a4e"
+        ],
+        "download_type": "csv",
+        "pid": "3d8252c7-6d19-48ba-ad0e-249167ec8690"
+      },
+      "downloadUrl": "https://data.moenv.gov.tw/api/frontstage/dataset/resource.download",
+      "downloadMethod": "POST",
+      "retrievedAt": "2026-11-11T16:59:15+00:00",
+      "sha256": "3108601da4cb3c7887e900a4e25ed25f5f8e4431db095dc5fc6375b4a09ebbcd",
+      "bytes": 4017,
+      "members": [
+        {
+          "filename": "空氣品質監測站基本資料.csv",
+          "rows": 80,
+          "sha256": "945dd2ace84f1fb374c89fa2bbcb242cc0fbd5e4d32701cb6bf707c40fda406a",
+          "providerMd5": "4e6eff4a58e3a01d636ab0ad4985764c",
+          "md5Verified": true
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "測站數值描述該測站觀測，不等同於縣市平均或全臺平均。",
+    "各站同時升高只是共同變化，不能僅憑 AQI 推論污染來源或因果關係。",
+    "本專題為固定歷史資料快照，不提供即時空氣品質。",
+    "副指標不是污染物濃度；此清理結果僅使用 AQI，不混用 PM2.5 濃度與副指標。"
+  ]
+}

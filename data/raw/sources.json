@@ -86,8 +86,8 @@
     ],
     "downloadUrl": "https://data.moenv.gov.tw/api/frontstage/dataset/resource.download",
     "downloadMethod": "POST",
-    "retrievedAt": "2026-11-01T17:25:03+00:00",
-    "sha256": "63ea0b9acd92bee2d46d3add8b4e6d236e9f07f772beffd0e020b38299004c79",
+    "retrievedAt": "2026-11-11T16:59:15+00:00",
+    "sha256": "2c545a68c193fbf921f93a7e4fce2020ba8163a4ebcd384bf8b905d7e6155b37",
     "bytes": 293013
   },
   {
@@ -104,8 +104,8 @@
     },
     "downloadUrl": "https://data.moenv.gov.tw/api/frontstage/dataset/resource.download",
     "downloadMethod": "POST",
-    "retrievedAt": "2026-11-01T17:25:03+00:00",
-    "sha256": "88a0a0453eeadc26fa442b1b5d2fc94e71aaaf4c6a4fbc2f3cb26a5735e17d79",
+    "retrievedAt": "2026-11-11T16:59:15+00:00",
+    "sha256": "3108601da4cb3c7887e900a4e25ed25f5f8e4431db095dc5fc6375b4a09ebbcd",
     "bytes": 4017
   }
 ]
