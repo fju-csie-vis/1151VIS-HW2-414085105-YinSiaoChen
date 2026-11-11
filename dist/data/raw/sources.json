@@ -1,0 +1,111 @@
+[
+  {
+    "datasetId": "AQX_P_434",
+    "title": "日空氣品質指標(AQI)",
+    "datasetUrl": "https://data.moenv.gov.tw/dataset/detail/AQX_P_434",
+    "filename": "aqx_p_434-2025.zip",
+    "request": {
+      "rid": [
+        "7ac9e293-b065-485a-87d0-dd5e014cfc36",
+        "74095e72-eb8d-4dcd-aeb4-032f15cfc320",
+        "cd694bec-1c64-46f6-9901-a7eb00389cd7",
+        "4d9bb740-7dd3-41a8-ac9f-b35809ff7223",
+        "1706a5fc-0981-4a41-a044-41b0493a6cd7",
+        "2b6a0c8e-7690-4b93-980d-325dc3327d0c",
+        "dd3929f9-537c-4340-864b-7f663e8a42fa",
+        "afc5297d-d94f-46a3-88ae-37a65da9724c",
+        "b8c20584-1686-4f59-b7d9-08252ad5bfa2",
+        "4529b60a-8362-42ba-ac47-4cb6266fa3af",
+        "d3df4e0e-0cbd-4bb9-96de-4f5b671038f1",
+        "683236db-7eff-4a5a-819c-8ab36ecff93c"
+      ],
+      "download_type": "csv",
+      "pid": "dd87deb2-a528-4f32-8433-d9512b0abee7"
+    },
+    "resources": [
+      {
+        "rid": "7ac9e293-b065-485a-87d0-dd5e014cfc36",
+        "alias": "aqx_p_434-2025_01",
+        "name": "日空氣品質指標(AQI) (2025/01)"
+      },
+      {
+        "rid": "74095e72-eb8d-4dcd-aeb4-032f15cfc320",
+        "alias": "aqx_p_434-2025_02",
+        "name": "日空氣品質指標(AQI) (2025/02)"
+      },
+      {
+        "rid": "cd694bec-1c64-46f6-9901-a7eb00389cd7",
+        "alias": "aqx_p_434-2025_03",
+        "name": "日空氣品質指標(AQI) (2025/03)"
+      },
+      {
+        "rid": "4d9bb740-7dd3-41a8-ac9f-b35809ff7223",
+        "alias": "aqx_p_434-2025_04",
+        "name": "日空氣品質指標(AQI) (2025/04)"
+      },
+      {
+        "rid": "1706a5fc-0981-4a41-a044-41b0493a6cd7",
+        "alias": "aqx_p_434-2025_05",
+        "name": "日空氣品質指標(AQI) (2025/05)"
+      },
+      {
+        "rid": "2b6a0c8e-7690-4b93-980d-325dc3327d0c",
+        "alias": "aqx_p_434-2025_06",
+        "name": "日空氣品質指標(AQI) (2025/06)"
+      },
+      {
+        "rid": "dd3929f9-537c-4340-864b-7f663e8a42fa",
+        "alias": "aqx_p_434-2025_07",
+        "name": "日空氣品質指標(AQI) (2025/07)"
+      },
+      {
+        "rid": "afc5297d-d94f-46a3-88ae-37a65da9724c",
+        "alias": "aqx_p_434-2025_08",
+        "name": "日空氣品質指標(AQI) (2025/08)"
+      },
+      {
+        "rid": "b8c20584-1686-4f59-b7d9-08252ad5bfa2",
+        "alias": "aqx_p_434-2025_09",
+        "name": "日空氣品質指標(AQI) (2025/09)"
+      },
+      {
+        "rid": "4529b60a-8362-42ba-ac47-4cb6266fa3af",
+        "alias": "aqx_p_434-2025_10",
+        "name": "日空氣品質指標(AQI) (2025/10)"
+      },
+      {
+        "rid": "d3df4e0e-0cbd-4bb9-96de-4f5b671038f1",
+        "alias": "aqx_p_434-2025_11",
+        "name": "日空氣品質指標(AQI) (2025/11)"
+      },
+      {
+        "rid": "683236db-7eff-4a5a-819c-8ab36ecff93c",
+        "alias": "aqx_p_434-2025_12",
+        "name": "日空氣品質指標(AQI) (2025/12)"
+      }
+    ],
+    "downloadUrl": "https://data.moenv.gov.tw/api/frontstage/dataset/resource.download",
+    "downloadMethod": "POST",
+    "retrievedAt": "2026-11-01T17:25:03+00:00",
+    "sha256": "63ea0b9acd92bee2d46d3add8b4e6d236e9f07f772beffd0e020b38299004c79",
+    "bytes": 293013
+  },
+  {
+    "datasetId": "AQX_P_07",
+    "title": "空氣品質監測站基本資料",
+    "datasetUrl": "https://data.moenv.gov.tw/dataset/detail/AQX_P_07",
+    "filename": "aqx_p_07-stations.zip",
+    "request": {
+      "rid": [
+        "fb92f773-27ca-470a-af04-6000397f7a4e"
+      ],
+      "download_type": "csv",
+      "pid": "3d8252c7-6d19-48ba-ad0e-249167ec8690"
+    },
+    "downloadUrl": "https://data.moenv.gov.tw/api/frontstage/dataset/resource.download",
+    "downloadMethod": "POST",
+    "retrievedAt": "2026-11-01T17:25:03+00:00",
+    "sha256": "88a0a0453eeadc26fa442b1b5d2fc94e71aaaf4c6a4fbc2f3cb26a5735e17d79",
+    "bytes": 4017
+  }
+]
